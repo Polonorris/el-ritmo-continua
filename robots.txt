@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polonorris.github.io/el-ritmo-contin-a/sitemap.xml
