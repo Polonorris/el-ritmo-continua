@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://polonorris.github.io/el-ritmo-contin-a/sitemap.xml
+Sitemap: https://polonorris.github.io/el-ritmo-continua/sitemap.xml
